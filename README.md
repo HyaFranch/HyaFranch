@@ -1,4 +1,5 @@
-Ol· meu nome È Hyakkimaru desenvolvedor da Itsuki-Bot e irei disponibilizar ela aqui em breve!
+[README.md](https://github.com/HyaFranch/HyaFranch/files/8415495/README.md)
+Ol√° meu nome √© Hyakkimaru desenvolvedor da Itsuki-Bot e irei disponibilizar ela aqui em breve!
 
 <div align="center">
   <a href="https://github.com/HyaFranch">
