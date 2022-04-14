@@ -1,4 +1,5 @@
 Olá meu nome é Hyakkimaru desenvolvedor da Itsuki-Bot e irei disponibilizar ela aqui em breve!
+Itsuki não terá código aberto na index por conta de kib
 
 <div align="center">
   <a href="https://github.com/HyaFranch">
