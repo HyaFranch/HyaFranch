@@ -17,6 +17,9 @@
   <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" height="25" alt="lua logo"  />
   <img width="8" />
+  <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="25" alt="python logo"  />
+  <img width="8" />
   <img 
 </div>
 
