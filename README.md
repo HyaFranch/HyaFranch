@@ -6,9 +6,6 @@
 
 <img align="center" height="250" src="https://i.pinimg.com/originals/32/fa/4f/32fa4fbb78e62a27768a3825ff03417d.gif" />
 
-<br clear="both">
-
-<br><br>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
