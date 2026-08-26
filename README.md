@@ -2,10 +2,7 @@
 
 <h2 align="left">Hi! My name is Hyakkimaru Franchiescho</h2>
 
-<br><br>
-
-<img align="center" height="250" src="https://i.pinimg.com/originals/32/fa/4f/32fa4fbb78e62a27768a3825ff03417d.gif" />
-
+<img align="center" height="350" src="https://i.pinimg.com/originals/32/fa/4f/32fa4fbb78e62a27768a3825ff03417d.gif" />
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
