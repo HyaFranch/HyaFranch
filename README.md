@@ -6,15 +6,6 @@
 
 <img align="center" height="250" src="https://i.pinimg.com/originals/32/fa/4f/32fa4fbb78e62a27768a3825ff03417d.gif" />
 
-<br><br><br><br>
-
-
-<br><br>
-
-###
-
-<br><br>
-
 <br clear="both">
 
 <br><br>
